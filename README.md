@@ -5,8 +5,8 @@
 
 ## ☁️ Qui suis-je ?
 
-DevOps de 23 ans qui viens de sortir de EPITA et d'une alternance de 3 ans, je suis un grand curieux et j'aime apprendre de nouvelle techno.
-Actuellement en train de monter en compétence sur l'utilisation des plateforme cloud ainsi qu'en dev JAVA. 
+DevOps de 23 ans qui viens de sortir de EPITA et d'une alternance de 3 ans, je suis un grand curieux et j'aime apprendre de nouvelles techno.
+Actuellement en train de monter en compétence sur l'utilisation des plateformes cloud ainsi qu'en dev JAVA. 
 
 Sinon j'aime bien le café ☕ et les chiens 🐕
 
